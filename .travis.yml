@@ -19,8 +19,8 @@ before_script:
   - echo $HOME
 
 jdk:
-  - openjdk7
-#  - oraclejdk8
+#  - openjdk7
+  - oraclejdk8
 
 os:
   - linux
